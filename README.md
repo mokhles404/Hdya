@@ -1,10 +1,10 @@
 # Hdya
 
-Le projet est une application mobile appelée : Hdya
-L’application est un petit réseau social regroupant des amis, les missions principales :
+\nLe projet est une application mobile appelée : Hdya\n
+L’application est un petit réseau social regroupant des amis, les missions principales :\n
 Page Gestion Profil \n
-Page Profil Amis
-Page fil d’actualité
-Page login
-Page inscription
+Page Profil Amis\n
+Page fil d’actualité\n
+Page login\n
+Page inscription\n
  
