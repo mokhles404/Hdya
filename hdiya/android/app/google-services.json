@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199421582242",
+    "project_id": "hdya-b81de",
+    "storage_bucket": "hdya-b81de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199421582242:android:54ae7b16ecf882405a30fb",
+        "android_client_info": {
+          "package_name": "com.example.hdiya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199421582242-6d1on94huti4vicu5o8re7rj3qvoj3g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hdiya",
+            "certificate_hash": "2504bdbbd941683b8411849428512f58da641da1"
+          }
+        },
+        {
+          "client_id": "199421582242-k1ndh1d52qvhoqjmnpfmkd4jrfs6r5t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3-t5WJEJ6ZVd8vycLAZpQYgoY24zgQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199421582242-k1ndh1d52qvhoqjmnpfmkd4jrfs6r5t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
